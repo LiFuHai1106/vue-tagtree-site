@@ -3,7 +3,9 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '指南', link: '/' },
+            { text: '捐赠', link: '/zh/donate/' },
             { text: 'GitHub', link: 'https://github.com/LiFuHai1106/vue-tagtree' },
-        ]
+        ],
+        sidebar: 'auto'
     }
 }
