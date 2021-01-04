@@ -8,6 +8,9 @@
 
 [vue-tagtree](https://github.com/LiFuHai1106/vue-tagtree) 是一个树形选择器，它基于 [vue](https://github.com/vuejs/vue) 和 [element-ui](https://github.com/ElemeFE/element)实现，支持多选和单选。
 
+## 预览
+[https://lifuhai1106.github.io/vue-tagtree-site/tagtree/tagtree.html](https://lifuhai1106.github.io/vue-tagtree-site/tagtree/tagtree.html)
+
 ## 安装和使用
 
 ```bash
@@ -56,3 +59,4 @@ export default {
   }
 };
 ```
+
