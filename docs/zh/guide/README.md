@@ -2,7 +2,6 @@
 
 [![vue](https://img.shields.io/badge/vue-2.6.11-brightgreen.svg)](https://github.com/vuejs/vue)
 [![element-ui](https://img.shields.io/badge/element--ui-2.14.1-brightgreen.svg)](https://github.com/ElemeFE/element)
-[![donate](https://img.shields.io/badge/%24-donate-ff69b4.svg)](https://panjiachen.gitee.io/vue-element-admin-site/zh/donate)
 [![GitHub stars](https://img.shields.io/github/stars/LiFuHai1106/vue-tagtree.svg?style=social&label=Stars)](https://github.com/PanJiaChen/vue-element-admin)
 
 <!-- <CodingAD /> -->
