@@ -6,5 +6,6 @@ module.exports = {
             { text: 'GitHub', link: 'https://github.com/LiFuHai1106/vue-tagtree' },
         ],
         sidebar: 'auto'
-    }
+    },
+    base: '/vue-tagtree-site/'
 }
